@@ -1,7 +1,7 @@
 echo '#include
 using namespace std;
 int main() {
-cout << "Ubaid Ullah" << endl;
+cout << "Sajjad Badshah" << endl;
 return 0;
 }' > hello.cpp
 git add .
